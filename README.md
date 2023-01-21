@@ -1,3 +1,3 @@
 # Colmar-web
 
-https://Mubarak123-56.github.io/colmar-web/
+https://MUbarak123-56.github.io/colmar-web/
